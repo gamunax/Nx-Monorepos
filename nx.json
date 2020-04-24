@@ -25,6 +25,9 @@
     "mi-site-e2e": {
       "tags": [],
       "implicitDependencies": ["mi-site"]
+    },
+    "ui-header": {
+      "tags": []
     }
   }
 }
