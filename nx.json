@@ -18,5 +18,13 @@
       }
     }
   },
-  "projects": {}
+  "projects": {
+    "mi-site": {
+      "tags": []
+    },
+    "mi-site-e2e": {
+      "tags": [],
+      "implicitDependencies": ["mi-site"]
+    }
+  }
 }
